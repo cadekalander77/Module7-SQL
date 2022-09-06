@@ -25,11 +25,11 @@ There are currently 240,124 active employees. Out of that approximately 38% (90,
 
 There are only 1,549 employees are eligible for mentorship program (born in 1965) to mentor roles backfill the roles of 90,398 retiring employees. Each mentor will need to be assigned an average of 58 newly hired employees. Per chart below, there are 29,414 employees retiring from Senior Engineer role and only 169 Senior Engineers (mentors) available for that role. That means each of Senior Engineer need to be assigned to mentor 174 Senior engineer mentees. It may be too few mentors and may not be effective. Likewise, there are not any eligible mentors for Manager role.  
 
-![image text](Resources/Retirees_Mentors_Mentees.png)
+![image text](Image1.png)
 
 If the mentorship program eligibity criteria is updated and is offered to employees born on 1964 or 1965, then there will be manageble number of mentees per employess for most roles as shown on chart below. Hence it is recommended to expand the mentorship eligibity criteria to employees born between 1964 and 1965. 
 
-![image text](Resources/Retirees_Mentors_Mentees_Updated_list.png)
+![image text](Image2.png)
 
 
  In addition it is recommended to implement current managers (regardless of their birth year) to mentor newly hired managers. 
